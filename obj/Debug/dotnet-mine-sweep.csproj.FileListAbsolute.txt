@@ -1,0 +1,8 @@
+C:\Users\tuan\Desktop\dotnet-mine-sweep\obj\Debug\dotnet-mine-sweep.csproj.AssemblyReference.cache
+C:\Users\tuan\Desktop\dotnet-mine-sweep\obj\Debug\dotnet-mine-sweep.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuan\Desktop\dotnet-mine-sweep\obj\Debug\dotnet-mine-sweep.csproj.CoreCompileInputs.cache
+C:\Users\tuan\Desktop\dotnet-mine-sweep\bin\Debug\dotnet-mine-sweep.exe.config
+C:\Users\tuan\Desktop\dotnet-mine-sweep\bin\Debug\dotnet-mine-sweep.exe
+C:\Users\tuan\Desktop\dotnet-mine-sweep\bin\Debug\dotnet-mine-sweep.pdb
+C:\Users\tuan\Desktop\dotnet-mine-sweep\obj\Debug\dotnet-mine-sweep.exe
+C:\Users\tuan\Desktop\dotnet-mine-sweep\obj\Debug\dotnet-mine-sweep.pdb
